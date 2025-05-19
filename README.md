@@ -2,26 +2,6 @@
 
 > A pixel‑perfect, responsive landing page for Raaya Social—your all‑inclusive short‑form video and social media management service—designed in Figma and built with modern web technologies.
 
----
-
-## 🚀 Table of Contents
-
-- [About The Project](#about-the-project)
-- [Live Demo](#live-demo)
-- [Built With](#built-with)
-- [Features](#features)
-- [Responsive Breakpoints](#responsive-breakpoints)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Deployment](#deployment)
-- [Folder Structure](#folder-structure)
-- [Author](#author)
-- [License](#license)
-
----
-
 ## 📖 About The Project
 
 Raaya Social is a fictitious agency offering short‑form video content and full‑service social media management at a flat monthly rate. This landing page was designed in Figma with pixel‑perfect attention to detail, then implemented in HTML, CSS, and a touch of JavaScript for interactive components:
@@ -37,7 +17,7 @@ Raaya Social is a fictitious agency offering short‑form video content and full
 
 Check out the deployed site on Netlify:
 
-[https://raaya-social.netlify.app](https://raaya-social.netlify.app)
+[https://raaya-social.netlify.app](https://raaya-social-netlify.netlify.app/)
 
 ---
 
