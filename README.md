@@ -4,12 +4,7 @@
 
 ## 📖 About The Project
 
-Raaya Social is a fictitious agency offering short‑form video content and full‑service social media management at a flat monthly rate. This landing page was designed in Figma with pixel‑perfect attention to detail, then implemented in HTML, CSS, and a touch of JavaScript for interactive components:
-
-- **Hamburger menu** for mobile navigation
-- **Accordion FAQs** for quick answers
-- **Call‑to‑action** sections: “Get Started” & “Book a Demo”
-- Showcase of services, client logos, testimonials, and contact form
+Raaya Social is a fictitious agency offering short‑form video content and full‑service social media management at a flat monthly rate. This landing page was designed in Figma with pixel‑perfect attention to detail, then implemented in HTML, CSS, and a touch of JavaScript for interactive components.
 
 ---
 
